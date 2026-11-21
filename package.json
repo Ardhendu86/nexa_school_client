@@ -1,0 +1,29 @@
+{
+  "name": "nexaweb-school-client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nexaweb School Management System - Next.js Modern Frontend",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.12.0",
+    "aos": "^2.3.4",
+    "axios": "^1.19.0",
+    "clsx": "^2.1.0",
+    "lucide-react": "^0.344.0",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.3.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
